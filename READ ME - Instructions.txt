@@ -1,0 +1,13 @@
+How to Install the Test Drive
+• Locate the War Thunder Directory via Steam -> War Thunder (Right Click) > Manage > Browse Local Files
+• Open the "Drag Files Into WT" folder from the unzipped folder and place the two folders "content" and "UserMissions" into the War Thunder Directory
+• Test Drive can now be accessed from the Hanger > UserMissions > Ask3lad > Ask3lad - Test Drive 3.0
+
+How to Change the Vehicle
+• Open "Ask3lad Test Drive GUI v1.0.exe"
+• Locate the War Thunder Directory
+• Locate the "Assets" Folder if required*
+• Select what vehicle you want to test drive then press "Apply"
+
+//If you need help or encounter an errors, join the Discord - https://discord.com/invite/nyr4CxpNKw
+
